@@ -1,0 +1,98 @@
+---
+title: "Research"
+---
+
+# Selected Peer-reviewed Publications
+
+Combining data from surveys and related sources (with J Sedransk). Under Revision.
+ 
+Bayesian inference for asymptomatic COVID-19 infection rates (with J Sedransk), Statistics in Medicine, 41(16), 3131-3148, July 2022. DOI: https://doi.org/10.1002/sim.9408 [pdf](https://arxiv.org/search/stat?searchtype=author&query=Cahoy%2C+D) 
+
+ 
+Flexible models for overdispersed and underdispersed count data (with E Di Nardo and F Polito). Statistical Papers, 62:2969–2990, Feb 2021.   https://doi.org/10.1007/s00362-021-01222-7 [pdf](https://arxiv.org/pdf/2001.08912.pdf)
+
+
+Inverse stable prior for exponential models (with J Sedransk). Journal of Statistical Theory and Practice, 13, Article 29, June 2019.  https://doi.org/10.1007/s42519-018-0027-2 [pdf](https://arxiv.org/search/stat?searchtype=author&query=Cahoy%2C+D)  [`r fa(name = "r-project")`](https://cran.r-project.org/web/packages/InvStablePrior/InvStablePrior.pdf)   [`r fa(name = "github-square", fill = "steelblue")`](https://github.com/dcahoy/) 
+
+
+
+Informing native plant sourcing for ecological restoration: Cold hardiness dynamics, flowering phenology, and survival of Eriogonum Umbellatum (with M Fisk*, K Apostol, A Ross-Davis and A Davis). Restoration Ecology, 27(3), 616-625, May 2019.   https://doi.org/10.1111/rec.12912  
+
+
+
+Log-moment estimators for the generalized Linnik and Mittag-Leffler distributions with applications to financial modeling (with W Woyczyński). Journal of Mathematics and Statistics, 14, 156-166, Aug 2018.   https://doi.org/10.3844/jmssp.2018.156.166  
+
+
+Inference for three-parameter M-Wright distributions with applications (with S Minkabo*). Model Assisted Statistics and Applications, 12(2), 115-125, Jun 2017.  https://doi.org/10.3233/MAS-170388 [`r fa(name = "r-project")`](https://cran.r-project.org/web/packages/MWright/MWright.pdf) [`r fa(name = "github-square", fill = "steelblue")`](https://github.com/dcahoy/)
+
+
+Prevalence of serial inventors within academia (with R Kordal, B Koev* and E Sherer). Technology and Innovation (Journal of the National Academy of Inventors), 17(3), 113-126, 2016. https://doi.org/10.3727/194982415x14483045339283, [link](https://www.ingentaconnect.com/content/cog/ti/2016/00000017/00000003/art00004;jsessionid=95b52g3946g0o.alice) [pdf](https://www.researchgate.net/publication/292212687_PREVALENCE_OF_SERIAL_INVENTORS_WITHIN_ACADEMIA)
+
+
+Discovery Process – R&D Lead Time Needed for Innovation (with R Kordal, S Minkabo* and E Sherer). Technology Transfer and Entrepreneurship, 3(1), 32-39, 2016. https://doi.org/10.2174/2213809903666160324164826, [link](https://www.eurekaselect.com/article/74583) [pdf](https://www.researchgate.net/publication/299458542_Discovery_Process_-_RD_Lead_Time_Needed_for_Innovation)
+
+
+Transient behavior of fractional queues and related processes (with F Polito and V Phoha), Methodology and Computing in Applied Probability, 17(3), 739-759, Sept 2015. https://doi.org/10.1007/s11009-013-9391-2   [pdf](https://arxiv.org/search/stat?searchtype=author&query=Cahoy%2C+D)
+
+
+Some skew-symmetric distributions which include the bimodal ones. Communications in Statistics-Theory and Methods, 44(3), 554-563, Feb 2015. https://doi.org/10.1080/03610926.2012.746986 [pdf](https://www.researchgate.net/profile/Dexter-Cahoy) 
+
+Parameter estimation for fractional birth and fractional death processes (with F Polito). Statistics and Computing, 24(2), 211-222, Mar 2014. https://doi.org/10.1007/s11222-012-9365-1  [pdf](https://arxiv.org/pdf/1303.6690.pdf) 
+
+
+A statistical reevaluation of the data used in the Lanphear et al. (2005) pooled-analysis that related low levels of blood lead to intellectual deficits in children (with K Crump, T Bowers, J Chandalia and C Van Landingham). Critical Reviews in Toxicology, 43(9), 785-799, Oct 2013. https://doi.org/10.3109/10408444.2013.832726  [pdf](https://pubmed.ncbi.nlm.nih.gov/24040996/)  
+
+
+Libraries and student persistence at southern universities and colleges (with B Teske and M DiCarlo). Reference Services Review, 41(2), 266-279, 2013. https://doi.org/10.1108/00907321311326174  [pdf](https://www.emerald.com/insight/content/doi/10.1108/00907321311326174/full/html)  
+
+
+Estimation of Mittag-Leffler parameters. Communications in Statistics-Simulation and Computation, 42(2), 303-315, 2013. https://doi.org/10.1080/03610918.2011.640094 [`r fa(name = "r-project")`](https://cran.r-project.org/web/packages/MittagLeffleR/MittagLeffleR.pdf) [`r fa(name = "github-square", fill = "steelblue")`](https://strakaps.github.io/MittagLeffleR/)
+
+Statistical-based approach for predicting the mechanical properties of geopolymer concretes (with I Diaz* and E Allouche). ASTM Special Technical Publication 1566, June 2013. https://doi.org/10.1520/STP156620120080 [pdf](https://www.astm.org/stp156620120080.html) 
+
+
+Renewal processes based on generalized Mittag-Leffler waiting times (with F Polito). Communications in Nonlinear Science and Numerical Simulation, 18(3), 639-650, Mar 2013. https://doi.org/10.1016/j.cnsns.2012.08.013  [link](https://www.sciencedirect.com/science/article/abs/pii/S1007570412003565)
+
+
+Moment estimators for the two-parameter M-Wright distribution. Computational Statistics, 27(3), 487-497, Sept 2012. https://doi.org/10.1007/s00180-011-0269-x  
+[`r fa(name = "r-project")`](https://cran.r-project.org/web/packages/MWright/MWright.pdf) [`r fa(name = "github-square", fill = "steelblue")`](https://github.com/dcahoy/)
+
+
+An estimation procedure for the Linnik distribution. Statistical Papers, 53(3), 617-628, Aug 2012.  https://doi.org/10.1007/s00362-011-0367-4   [pdf](https://arxiv.org/pdf/1410.4093.pdf)
+
+
+Simulation and estimation for the fractional Yule process (with F Polito). Methodology and Computing in Applied Probability, 14(2), 383-403, June 2012.  https://doi.org/10.1007/s11009-010-9207-6  [pdf](https://arxiv.org/pdf/1303.6681.pdf)
+ 
+Kernel duration and modulation gain in coupled oscillator model and their implications on the progress of seizures (with W Chen*, J Tasker and A Chiu). Network: Computation in Neural Systems, 23(1-2), 59-75, Mar 2012. https://doi.org/10.3109/0954898X.2012.678463  
+
+Estimation and simulation for the M-Wright function. Communications in Statistics-Theory and Methods, 41(8), 1466-1477, Mar 2012.  https://doi.org/10.1080/03610926.2010.543299 
+[`r fa(name = "r-project")`](https://cran.r-project.org/web/packages/MWright/MWright.pdf) [`r fa(name = "github-square", fill = "steelblue")`](https://github.com/dcahoy/)
+
+
+On a fractional binomial process (with F Polito). Journal of Statistical Physics, 146(3), 646-662, Jan 2012. https://doi.org/10.1007/s10955-011-0408-3 [pdf](https://arxiv.org/pdf/1303.6663.pdf)
+
+
+On the parametrization of the M-Wright function. Far East Journal of Theoretical Statistics, 34,(2), 155 - 164, February 2011. [link](http://www.pphmj.com/abstract/5767.htm) [pdf](http://www.pphmj.com/abstract/5767.htm)
+
+
+Parameter estimation for fractional Poisson processes (with V Uchaikin and W Woyczyński). Journal of Statistical Planning and Inference, 140(11), 3106-3120, Nov 2010. https://doi.org/10.1016/j.jspi.2010.04.016 [pdf](https://arxiv.org/pdf/1806.02774.pdf) [`r fa(name = "r-project")`](https://cran.r-project.org/web/packages/MittagLeffleR/MittagLeffleR.pdf)  [`r fa(name = "github-square", fill = "steelblue")`](https://strakaps.github.io/MittagLeffleR/)
+
+
+A bootstrap test for equality of variances. Computational Statistics & Data Analysis, 54(10), 2306-2316, Oct 2010. https://doi.org/10.1016/j.csda.2010.04.012  [pdf](https://arxiv.org/pdf/1806.02730.pdf)  [`r fa(name = "r-project")`](https://cran.r-project.org/web/packages/testequavar/testequavar.pdf)  [`r fa(name = "github-square", fill = "steelblue")`](https://github.com/dcahoy/)
+
+Fractional processes: From Poisson to branching one (with V Uchaikin and R Sibatov). International Journal of Bifurcation and Chaos (in Applied Sciences and Engineering), 18(9), 2717-2725, Sept 2008. https://doi.org/10.1142/S0218127408021932  [pdf](https://arxiv.org/pdf/1002.2512.pdf)
+
+*graduate student co-author
+
+ 
+&nbsp; 
+
+# Work in Software Packages
+
+[`r fa(name = "r-project")`InvStablePrior](https://cran.r-project.org/web/packages/InvStablePrior/InvStablePrior.pdf)  /  [`r fa(name = "github-square", fill = "steelblue")`InvStablePrior](https://github.com/dcahoy/) 
+
+[`r fa(name = "r-project")`testequavar](https://cran.r-project.org/web/packages/testequavar/testequavar.pdf)  /  [`r fa(name = "github-square", fill = "steelblue")`testequavar](https://github.com/dcahoy/) 
+
+[`r fa(name = "r-project")`MWright](https://cran.r-project.org/web/packages/MWright/MWright.pdf)  /  [`r fa(name = "github-square", fill = "steelblue")`MWright](https://github.com/dcahoy/) 
+
+[`r fa(name = "r-project")`MittagLeffleR](https://cran.r-project.org/web/packages/MittagLeffleR/MittagLeffleR.pdf)  /  [`r fa(name = "github-square", fill = "steelblue")`MittagLeffleR](https://strakaps.github.io/MittagLeffleR/)

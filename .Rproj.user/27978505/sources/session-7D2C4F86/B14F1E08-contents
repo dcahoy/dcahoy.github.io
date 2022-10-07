@@ -1,0 +1,69 @@
+---
+title: "Dexter Cahoy"
+--- 
+```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
+library(fontawesome)
+#fa_metadata()
+```
+
+
+
+[`r fa(name = "github-square", fill = "steelblue", height="1.5em", width="1.5em")`](https://github.com/dcahoy/)    [`r fa(name = "researchgate", fill = "green", height="1.5em", width="1.5em")`](https://www.researchgate.net/profile/Dexter-Cahoy)   [`r fa(name = "linkedin", fill = "steelblue", height="1.5em", width="1.5em")`](https://www.linkedin.com/in/dexter-cahoy-409835a4)  
+
+&nbsp; 
+```{r, echo=FALSE, fig.align = 'center', fig.width=0.6, fig.height=0.6, out.width="400px", fig.retina = 1}
+knitr::include_graphics("posthtx5.jpg")
+```
+
+&nbsp; 
+
+I am a Professor of Statistics in the [Department of Mathematics and Statistics](https://www.uhd.edu/academics/sciences/mathematics-statistics/Pages/ms-index.aspx) at [University of Houston - Downtown](https://www.uhd.edu/academics/sciences/Pages/sciences-index.aspx) [(UHD)](https://www.uhd.edu). Before joining UHD, I was a faculty member in the Department of Mathematics and Statistics  at [Louisiana Tech University](https://latech.edu) for 10 years. I received my Ph.D. in Statistics from [Case Western Reserve University](https://case.edu/) in 2007.  I play tennis or basketball for fun. I am originally from [Cagayan de Oro City,](https://en.wikipedia.org/wiki/Cagayan_de_Oro) Philippines. 
+ 
+ 
+&nbsp; 
+
+
+
+# Contact Info
+
+Department of Mathematics and Statistics  
+College of Sciences and Technology  
+University of Houston - Downtown  
+One Main St., Houston, TX  77002  
+cahoyd@uhd.edu    |   713.221.8117
+
+
+
+
+
+
+<!--
+## Appointments
+Associate Professor (with tenure), Department of Mathematics and Statistics, College of Sciences and  Technology,  University of Houston - Downtown, 2020 - 2022
+
+Associate Professor, Department of Mathematics and Statistics, College of Sciences and  Technology,  University of Houston - Downtown,  2017 - 2020
+
+Associate Professor (with tenure), Department of Mathematics and Statistics, College of Engineering and Science, Louisiana Tech University, 2013 - 2017 
+
+Assistant Professor, Department of Mathematics and Statistics, College of Engineering and Science, Louisiana Tech University, 2007 - 2013
+
+
+## Academic Degrees
+
+PhD-Statistics, Case Western Reserve University  
+
+MSc-Statistics, University of Alberta 
+
+MSc-Applied Mathematical Sciences, University of Science and Technology of Southern Philippines 
+
+BSc-Statistics, Mindanao State University-Iligan Institute of Technology
+`r fa(name = "envelope", fill = "steelblue", height="1.5em", width="1.5em")`Contact me. 
+ -->
+
+
+
+
+ 
+
+
+ 
